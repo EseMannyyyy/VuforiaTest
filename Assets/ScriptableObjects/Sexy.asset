@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Sexy
   animationName: Baile
   notesConfig: {fileID: 4900000, guid: 86ca0f64b97e52b4e89bba4c34cd1342, type: 3}
-  speed: 200
+  speed: 180

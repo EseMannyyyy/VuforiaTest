@@ -1,6 +1,6 @@
 {
     "notes":
-    [
+   [
       {"time": 1, "lane":0},
       {"time": 1.8, "lane":1},
       {"time": 2, "lane":2},
@@ -40,6 +40,27 @@
       {"time": 19, "lane":1},
       {"time": 19.8, "lane":0},
       {"time": 20, "lane":2},
-      {"time": 20.8, "lane":0}
+      {"time": 20.8, "lane":0},
+      {"time": 21, "lane":1},
+      {"time": 21.8, "lane":0},
+      {"time": 22, "lane":2},
+      {"time": 22.8, "lane":0},
+      {"time": 23, "lane":1},
+      {"time": 23.8, "lane":0},
+      {"time": 24, "lane":1},
+      {"time": 24.8, "lane":2},
+      {"time": 25, "lane":1},
+      {"time": 25.8, "lane":0},
+      {"time": 26, "lane":2},
+      {"time": 27, "lane":0},
+      {"time": 27.8, "lane":1},
+      {"time": 28, "lane":2},
+      {"time": 28.8, "lane":1},
+      {"time": 29, "lane":0},
+      {"time": 29.8, "lane":2},
+      {"time": 30, "lane":1},
+      {"time": 30.8, "lane":0},
+      {"time": 31, "lane":2},
+      {"time": 31.8, "lane":0}
     ]
 }
